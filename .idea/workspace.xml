@@ -4,13 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3430984d-36cb-490d-bbcf-6b1a662bb098" name="Default Changelist" comment="" />
+    <list default="true" id="3430984d-36cb-490d-bbcf-6b1a662bb098" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomAttachment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomAttachmentContent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomCurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomCurrency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomInputProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomMeasurement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomMeasurement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomOutputProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomSupplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomSupplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomUsers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomWareHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/projection/CustomWareHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/repository/AttachmentContentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/repository/AttachmentContentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/repository/AttachmentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/repository/AttachmentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/repository/InputProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/repository/InputProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/repository/OutputProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/repository/OutputProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/repository/OutputRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/repository/OutputRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/task1/repository/UserRepository.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1psj4fkuvZBPpIR9T1Qi0RKOMdJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,11 +54,35 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/uz/pdp/task1/service" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/uz/pdp/task1/service" />
+      <recent name="$PROJECT_DIR$/src/main/java/uz/pdp/task1/controller" />
+      <recent name="$PROJECT_DIR$/src/main/java/uz/pdp/task1/payload" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="uz.pdp.task1.payload" />
+      <recent name="uz.pdp.task1.service" />
+      <recent name="uz.pdp.task1.controller" />
+    </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="task1" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="uz.pdp.task1.Task1Application" />
@@ -41,6 +101,7 @@
       <updated>1615978502449</updated>
       <workItem from="1615978503525" duration="7000" />
       <workItem from="1615978534100" duration="33000" />
+      <workItem from="1616041428256" duration="2433000" />
     </task>
     <servers />
   </component>

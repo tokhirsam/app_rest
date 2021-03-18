@@ -4,8 +4,8 @@ import org.springframework.data.rest.core.config.Projection;
 import uz.pdp.task1.entity.Measurement;
 
 @Projection(types = Measurement.class)
-public class CustomMeasurement {
-    Integer getId;
-    String getName;
-    boolean getActive;
+public interface CustomMeasurement {
+    Integer getId();
+    String getName();
+    boolean getActive();
 }

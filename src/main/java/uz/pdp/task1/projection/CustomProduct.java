@@ -16,12 +16,12 @@ import javax.persistence.ManyToOne;
 import javax.persistence.OneToOne;
 
 @Projection(types = Product.class)
-public class CustomProduct extends AbstractEntity {
-     Integer getId;
-     String getName;
-     boolean getActive;
-     Category getCategory;
-     Attachment getPhoto;
-     String getCode;
-     Measurement getMeasurement;
+public interface CustomProduct {
+     Integer getId();
+     String getName();
+     boolean getActive();
+     Category getCategory();
+     Attachment getPhoto();
+     String getCode();
+     Measurement getMeasurement();
 }

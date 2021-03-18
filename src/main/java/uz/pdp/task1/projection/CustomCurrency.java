@@ -4,8 +4,8 @@ import org.springframework.data.rest.core.config.Projection;
 import uz.pdp.task1.entity.Currency;
 
 @Projection(types = Currency.class)
-public class CustomCurrency {
-    Integer getId;
-    String getName;
-    boolean getActive = true;
+public interface CustomCurrency {
+    Integer getId();
+    String getName();
+    boolean getActive();
 }
